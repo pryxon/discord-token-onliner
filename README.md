@@ -12,7 +12,7 @@ Makes multiple Discord accounts go online  by using their 0Auth token
 
 ## 4. Run `npm i discord.js11@npm:discord.js@11.6.2` in the directory of the files. (You need this version to support the use of selfbots)
 
-## 5. Run the onliner with `node onliner.js`
+## 5. Run the start.py
 
 
 The tokens will now go online and display a game!
@@ -22,7 +22,7 @@ The tokens will now go online and display a game!
 
 ![image](https://user-images.githubusercontent.com/48888771/124753384-36bde580-df29-11eb-89a8-30298c688608.png)
 
-###### Donate: https://paypal.me/PiggyAwesomeYT?locale.x=en_US
+###### Donate: https://paypal.me/Piggy/pryxon?locale.x=en_US
 
 
 
